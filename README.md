@@ -15,4 +15,4 @@
 [Урок 14](https://antonbychkovwp.github.io/lesson14/) - Подключение шрифтов.
 
 
-[Модуль 5. Практика. Часть 2.](https://antonbychkovwp.github.io/lesson15/) - Подключение шрифтов. Верстка первого экрана.
+[Урок 14](https://antonbychkovwp.github.io/lesson15/) - Псевдоклассы и псевдоэлементы.
