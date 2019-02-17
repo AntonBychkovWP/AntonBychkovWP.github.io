@@ -15,4 +15,4 @@
 [Урок 14](https://antonbychkovwp.github.io/lesson14/) - Подключение шрифтов.
 
 
-[Урок 14](https://antonbychkovwp.github.io/lesson15/) - Псевдоклассы и псевдоэлементы.
+[Урок 15](https://antonbychkovwp.github.io/lesson15/) - Псевдоклассы и псевдоэлементы.
