@@ -16,3 +16,6 @@
 
 
 [Урок 15](https://antonbychkovwp.github.io/lesson15/) - Псевдоклассы и псевдоэлементы.
+
+
+[Урок 16](https://antonbychkovwp.github.io/lesson16/) - Слайдер на сайте.
