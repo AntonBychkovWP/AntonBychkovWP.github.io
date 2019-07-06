@@ -1,0 +1,134 @@
+.answer {
+	margin: 0 auto;
+	text-align: center;
+	width: 75%;
+}
+.panel-header {
+	margin: 30px 0;
+}
+.panel-header-text {
+	text-transform: uppercase;
+	color: #0bbaf0;
+}
+.panel-text {
+	text-transform: uppercase;
+	color: #0bbaf0;
+	font-size: 18pt;
+}
+.panel-title {
+	background-color: #0bbaf0;
+	margin: 3px;
+	padding: 5px;
+}
+.panel-title a {
+	text-decoration: none;
+}
+.panel-title-header {
+	color: #fff;
+	font-size: 14pt;
+}
+.panel-body {
+	border: solid 2px #acacac;
+	border-radius: 5px;
+	margin: -4px 4px;
+	padding: 0;
+}
+.tabs {
+	margin: 50px auto;
+	width: 60%;
+}
+.tab-form {
+	padding: 20px;
+	margin: 0;
+
+}
+.nav-tabs {
+	margin: -1px 25px;
+	
+	font-size: 16pt;
+}
+.nav-tabs li {
+	margin: 0 15px;
+}
+.nav-tabs a {
+	text-decoration: none;
+}
+
+.active {
+	background-color: #03a5da;
+	border-radius: 5px 5px 0 0;
+	padding: 9px;
+	color: #fff;
+}
+.items {
+	background-color: #03a5da;
+	border-radius: 5px;
+}
+.form {
+	width: 100%;
+	padding: 56px 45px 10px;
+	background-color: #000;
+	border-radius: 5px;
+}
+.form-control {
+	background: url("../img/shape.png") no-repeat;
+	background-size: 100%;
+}
+.btn-form {
+	background: linear-gradient(90deg, #870801, #c01d03 50%, #870801);
+
+	border-radius: 3px;
+	position: absolute;
+	right: 24%;
+	top: 600px;
+	color: #fff;
+	font-size: 15pt;
+	padding: 7px 15px;
+}
+.form-control {
+	height: 60px;
+	width: 480px;
+	
+	font-size: 16pt;
+}
+.form-group {
+	padding: 0 auto;
+}
+.text {
+	font-size: 14pt;
+}
+input[type="text"] {
+	border: none;
+}
+input[type="text"]:focus {
+	box-shadow: none;
+	border: none;
+	color: #fff;
+}
+input[type="password"] {
+	border: none;
+}
+input[type="password"]:focus {
+	box-shadow: none;
+	border: none;
+	color: #fff;
+}
+.forget {
+	color: #870801;
+	font-size: 13pt;
+}
+.forget:hover {
+	color: #c01d03;
+}
+.tab-pane {
+	border-radius: 5px;
+}
+.form-check-label {
+	color: #434141;
+}
+
+.anim:hover{
+	animation-name: pulse;
+	color: red;
+	animation-duration: 0.3s;
+}
