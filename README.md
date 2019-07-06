@@ -31,3 +31,6 @@
 
 
 [Модуль 5. Практика. Часть 6.](https://antonbychkovwp.github.io/price/) - Верстка блока с ценами.
+
+
+[Урок 19](https://antonbychkovwp.github.io/lesson19/) - Анимация на CSS3.
