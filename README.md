@@ -34,3 +34,6 @@
 
 
 [Урок 19](https://antonbychkovwp.github.io/lesson19/) - Анимация на CSS3.
+
+
+[Модуль 6. Практика. Часть 7.](https://antonbychkovwp.github.io/feedback/) - Верстка блока с отзывами.
