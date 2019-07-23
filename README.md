@@ -40,3 +40,6 @@
 
 
 [Урок 20](https://antonbychkovwp.github.io/lesson20/) - Видео-фон на сайте.
+
+
+[Модуль 6. Практика. Часть 8.](https://antonbychkovwp.github.io/feedback_hand+form/) - Доверстали блок с отзывами.
