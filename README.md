@@ -43,3 +43,6 @@
 
 
 [Модуль 6. Практика. Часть 8.](https://antonbychkovwp.github.io/feedback_hand+form/) - Доверстали блок с отзывами.
+
+
+[Урок 21](https://antonbychkovwp.github.io/lesson21/) - Parallax эффект для сайта.
