@@ -46,3 +46,6 @@
 
 
 [Урок 21](https://antonbychkovwp.github.io/lesson21/) - Parallax эффект для сайта.
+
+
+[Модуль 6. Практика. Часть 9.](https://antonbychkovwp.github.io/scheme+all%20inclusive/) - Верстаем схему работы и все включено.
