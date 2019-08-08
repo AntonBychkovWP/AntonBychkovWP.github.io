@@ -1,0 +1,38 @@
+.header {
+	position: relative;
+}
+.contact {
+	position: absolute;
+	background: red;
+	color: #fff;
+	top: 0;
+	left: 14%;
+	height: 100%;
+	width: 300px;
+	text-align: center;
+	padding: 70px 0 60px 0;
+	font-weight: 700;
+}
+.contact h4, p{
+	padding: 10px 0;
+}
+.left {
+	padding: 10px 0;
+	margin: 0;
+}
+.left p {
+	vertical-align: top;
+	display: inline-block;
+	padding: 0;
+}
+.left img {
+	padding: 5px 10px 0 10px;
+}
+.center {
+	text-align: center;
+
+}
+.right p {
+	margin: 0;
+	padding: 10px 0 5px 0;
+}
