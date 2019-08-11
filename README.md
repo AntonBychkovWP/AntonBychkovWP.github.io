@@ -52,3 +52,6 @@
 
 
 [Урок 22](https://antonbychkovwp.github.io/lesson22/) - Гео-карты для сайта.
+
+
+[Модуль 6. Практика. Часть 10.](https://antonbychkovwp.github.io/problems/) - Верстаем блок "Развеиваем сомнения"
