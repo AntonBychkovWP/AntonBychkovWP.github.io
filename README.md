@@ -12,9 +12,6 @@
 [Урок 15](https://antonbychkovwp.github.io/lesson15/) - Псевдоклассы и псевдоэлементы.
 
 
-[Урок 17](https://antonbychkovwp.github.io/lesson17/) - Всплывающие окна.
-
-
 [Модуль 5. Практика. Часть 5.](https://antonbychkovwp.github.io/pop-ups/) - Всплывающие окна.
 
 
