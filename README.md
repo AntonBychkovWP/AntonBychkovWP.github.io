@@ -37,3 +37,8 @@
 
 
 [Модуль 6. Практика. Часть 10.](https://antonbychkovwp.github.io/problems/) - Верстаем блок "Развеиваем сомнения"
+
+
+[Автоматизированная штукатурка стен](https://antonbychkovwp.github.io/automated_wall_plaster/)
+
+[Автоматизированная штукатурка стен](http://o291513s.beget.tech/) - ссылка на хост
