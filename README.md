@@ -27,9 +27,6 @@
 [Модуль 6. Практика. Часть 8.](https://antonbychkovwp.github.io/feedback_hand+form/) - Доверстали блок с отзывами.
 
 
-[Урок 21](https://antonbychkovwp.github.io/lesson21/) - Parallax эффект для сайта.
-
-
 [Модуль 6. Практика. Часть 9.](https://antonbychkovwp.github.io/scheme+all%20inclusive/) - Верстаем схему работы и все включено.
 
 
@@ -41,4 +38,8 @@
 
 [Автоматизированная штукатурка стен](https://antonbychkovwp.github.io/automated_wall_plaster/)
 
+
 [Автоматизированная штукатурка стен](http://o291513s.beget.tech/) - ссылка на хост
+
+
+[PSD макет с Parallax эффектом](https://antonbychkovwp.github.io/lesson21/)
