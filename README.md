@@ -12,9 +12,6 @@
 [Урок 15](https://antonbychkovwp.github.io/lesson15/) - Псевдоклассы и псевдоэлементы.
 
 
-[Модуль 5. Практика. Часть 5.](https://antonbychkovwp.github.io/pop-ups/) - Всплывающие окна.
-
-
 [Урок 18](https://antonbychkovwp.github.io/lesson18/) - Аккардеон и Табы.
 
 
