@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #333;
+	font-size: 10px;
+}
+
+div {
+	background-image: url('../img/MapeiGranirapide.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	height: 100vh;
+	margin: 0 auto;
+	text-align: center;
+	width: 50%;
+}
+
+h1 {
+	font-size: 2rem;
+}
